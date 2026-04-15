@@ -1,8 +1,7 @@
 {
 "name": "Parths plugins",
 "version": "1.0.0",
-"preferredQuality": "1080p",
-"scrapers": [
+"plugins": [
 {
 "id": "hianime",
 "name": "HiAnime",
